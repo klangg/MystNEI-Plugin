@@ -19,7 +19,7 @@ public final class Objects {
             "required-after:spacore@[01.05.06,);" +
             "required-after:NotEnoughItems;" +
             "required-after:Mystcraft@[0.11.6,);" +
-            "after:LookingGlass@(0.0.1.0]";
+            "after:LookingGlass@(,0.0.1.01]";
     public static final String MOD_CHANNEL = "MystNEI";
     public static final String CLIENT_PROXY = "me.heldplayer.plugins.nei.mystcraft.client.ClientProxy";
     public static final String SERVER_PROXY = "me.heldplayer.plugins.nei.mystcraft.CommonProxy";
